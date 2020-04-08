@@ -1,0 +1,19 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  max-width: 100vw !important;
+}
+
+.ml-50 {
+  margin-left: 12vw;
+}
+
+.border-header {
+  border-width: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+input {
+  color: white !important;
+}
