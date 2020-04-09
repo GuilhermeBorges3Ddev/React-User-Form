@@ -18,3 +18,10 @@
 input {
   color: white !important;
 }
+
+@media screen and (min-width: 1450px){
+  .ml-50 {
+    margin-left: 6vw !important;
+    margin-top: 2vw;
+  }
+}
